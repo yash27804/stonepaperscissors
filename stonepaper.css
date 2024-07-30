@@ -1,0 +1,44 @@
+.btn
+{
+    width: 200px;
+    height: 200px;
+    margin-left: 20px;
+    background-repeat: no-repeat;
+    background-size:cover
+}
+
+.container
+{
+    padding: 20px;
+}
+
+div.type
+{
+    display: flex;
+    margin-left: 600px;
+}
+#user
+{
+    margin-left:70px;
+    font-size: 30px;
+    font-weight: bold;
+}
+#computer
+{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#usercount
+{
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 200px;
+}
+
+#computercount
+{
+    font-size: 30px;
+    font-weight: bold;
+    margin-left:10px;
+}
